@@ -1,0 +1,16 @@
+body{
+    background-color: #91D8E4;
+}
+h1{
+    font-size: 70px;
+    font-family: sans-serif;
+}
+h2{
+    font-size: 40px;
+}
+hr{
+    height: 0;
+    width: 20%;
+    color: goldenrod;
+    border-top: 3px dotted rgb(128, 128, 0);
+}
